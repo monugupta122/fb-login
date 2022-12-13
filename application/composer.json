@@ -1,0 +1,5 @@
+{
+    "require" : {
+        "third_party/facebook-php-graph-sdk" : "~5.0"
+    }
+}
